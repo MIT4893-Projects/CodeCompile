@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeCompile": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Temp\\temp.cpp\""
+    }
+  }
+}
